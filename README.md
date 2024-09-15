@@ -1,5 +1,5 @@
 # starting the project 
-  npm install
+  npm install,
   npm run dev
 
 
