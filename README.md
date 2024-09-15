@@ -1,6 +1,6 @@
 # starting the project 
-  npm install,
-  npm run dev
+to start the project after cloning the rep you ned to install node modules using npm install command , then to start the app 
+use npm run dev
 
 
 
