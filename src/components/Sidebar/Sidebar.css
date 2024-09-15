@@ -1,0 +1,22 @@
+.sidebar{
+    width: 250px;
+    text-align: left;
+}
+
+
+.bookStore_logo{
+    width: 30px;
+    height: auto;
+}
+.bookStore_logo_link{
+    color: #000;
+}
+.nav a{
+    color:  #131313;
+}
+.nav a:active{
+    color: #BF5523;
+}
+.nav a:hover{
+    /* color: #131313; */
+}

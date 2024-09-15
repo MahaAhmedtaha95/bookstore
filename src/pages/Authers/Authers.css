@@ -1,0 +1,27 @@
+.page-title{
+    text-align: start;
+    margin-right: 3rem;
+}
+.add-auther-btn,.add-auther-btn:hover{
+    background-color: #D86128;
+    color: #fff;
+    border: #D86128;
+}
+.modal-header{
+    background-color: #D86128;
+    color: #fff;
+    border: #D86128;
+}
+.cancel-btn,.cancel-btn:hover{
+    background-color: #fff;
+    color: #D86128;
+    border: #D86128 solid 1px;
+}
+.save-btn,.save-btn:hover{
+    background-color: #D86128;
+    color: #fff;
+    border: #D86128;   
+}
+.select-cell{
+    display: flex;
+}
